@@ -1,0 +1,8 @@
+# Core dependencies for SVG nesting
+# No external dependencies required - uses only Python standard library
+
+# Optional dependencies for enhanced functionality:
+# numpy>=1.20.0          # For advanced numerical operations
+# matplotlib>=3.5.0      # For visualization
+# shapely>=1.8.0         # For robust polygon operations
+# svglib>=1.4.0          # For advanced SVG parsing 
